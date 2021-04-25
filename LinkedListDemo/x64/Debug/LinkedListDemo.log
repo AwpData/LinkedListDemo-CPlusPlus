@@ -1,0 +1,7 @@
+﻿  LinkedListDemo.cpp
+C:\Users\Trevor Tang\source\repos\LinkedListDemo-CPlusPlus\LinkedListDemo\LinkedListDemo.cpp(23,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Trevor Tang\source\repos\LinkedListDemo-CPlusPlus\LinkedListDemo\LinkedListDemo.cpp(27,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Trevor Tang\source\repos\LinkedListDemo-CPlusPlus\LinkedListDemo\LinkedListDemo.cpp(31,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Trevor Tang\source\repos\LinkedListDemo-CPlusPlus\LinkedListDemo\LinkedListDemo.cpp(35,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Trevor Tang\source\repos\LinkedListDemo-CPlusPlus\LinkedListDemo\LinkedListDemo.cpp(39,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LinkedListDemo.vcxproj -> C:\Users\Trevor Tang\source\repos\LinkedListDemo-CPlusPlus\LinkedListDemo\x64\Debug\LinkedListDemo.exe

@@ -1,0 +1,2 @@
+C:\Users\Trevor Tang\source\repos\LinkedListDemo-CPlusPlus\LinkedListDemo\Debug\LinkedListDemo.exe
+C:\Users\Trevor Tang\source\repos\LinkedListDemo-CPlusPlus\LinkedListDemo\Debug\LinkedListDemo.pdb
